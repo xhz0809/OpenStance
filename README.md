@@ -1,4 +1,4 @@
-# OpenStance
+# OpenStance: Real-world Zero-shot Stance Detection
 
 This repository contains codes and scripts relevant to the dataset introduced in this [CoNLL'22 paper](https://arxiv.org/abs/2210.14299)
 
